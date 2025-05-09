@@ -1,0 +1,81 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup & autosave
+*~ 
+*.bak
+*.tmp
+*.swp
+*.swn
+
+# Test results
+[Tt]est[Rr]esult*/ 
+[Bb]uild[Ll]og.*
+*.log
+
+# NMake
+*.ncb
+*.opt
+*.plg
+
+# Compiled Dynamic libraries
+*.dll
+*.exe
+*.lib
+*.pdb
+*.ipch
+*.idb
+
+# Others
+*.cache
+*.aps
+*.pch
+*.tlog
+*.lastbuildstate
+*.dbmdl
+*.VC.db
+*.VC.opendb
+*.vscode
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Dump files
+*.mdmp
+*.dmp
