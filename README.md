@@ -69,6 +69,12 @@ MMORPG 서버의 DB 요청 병목 문제를 해결하기 위해
 
 ---
 
+## 🧭 DBDispatcher Flow Architecture
+
+![DBDispatcher Flow Architecture](./db-dispatcher-flow.png)
+
+---
+
 ## ⚙️ **구현 특징**
 
 - ✅ **워크 스레드 풀**: CPU 코어 수 기반으로 4~8개의 워커 스레드 자동 할당
